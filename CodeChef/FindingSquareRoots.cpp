@@ -13,5 +13,4 @@ int main()
     int ans = sqrt(N);
     cout<<ans<<endl;
     }
-
 }
